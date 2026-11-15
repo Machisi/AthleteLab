@@ -1,0 +1,2824 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ATHLETE LAB//Entrenamientos//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ATHLETE LAB · Entrenamientos
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+DTSTART:19700329T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:19701025T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:703-sub5-2026-11-09-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261109T070000
+DTEND;TZID=Europe/Madrid:20261109T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-09-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261109T074500
+DTEND;TZID=Europe/Madrid:20261109T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-10-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261110T070000
+DTEND;TZID=Europe/Madrid:20261110T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-10-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261110T081500
+DTEND;TZID=Europe/Madrid:20261110T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-11-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261111T070000
+DTEND;TZID=Europe/Madrid:20261111T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-11-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261111T170000
+DTEND;TZID=Europe/Madrid:20261111T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-12-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261112T104500
+DTEND;TZID=Europe/Madrid:20261112T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-12-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261112T115000
+DTEND;TZID=Europe/Madrid:20261112T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-13-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261113T070000
+DTEND;TZID=Europe/Madrid:20261113T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-13-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261113T074500
+DTEND;TZID=Europe/Madrid:20261113T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-14-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261114T090000
+DTEND;TZID=Europe/Madrid:20261114T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-15-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261115T080000
+DTEND;TZID=Europe/Madrid:20261115T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-16-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261116T070000
+DTEND;TZID=Europe/Madrid:20261116T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-16-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261116T074500
+DTEND;TZID=Europe/Madrid:20261116T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-17-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261117T070000
+DTEND;TZID=Europe/Madrid:20261117T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-17-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261117T081500
+DTEND;TZID=Europe/Madrid:20261117T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-18-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261118T070000
+DTEND;TZID=Europe/Madrid:20261118T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-18-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261118T170000
+DTEND;TZID=Europe/Madrid:20261118T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-19-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261119T104500
+DTEND;TZID=Europe/Madrid:20261119T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-19-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261119T115000
+DTEND;TZID=Europe/Madrid:20261119T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-20-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261120T070000
+DTEND;TZID=Europe/Madrid:20261120T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-20-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261120T074500
+DTEND;TZID=Europe/Madrid:20261120T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-21-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261121T090000
+DTEND;TZID=Europe/Madrid:20261121T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-22-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261122T080000
+DTEND;TZID=Europe/Madrid:20261122T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-23-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261123T070000
+DTEND;TZID=Europe/Madrid:20261123T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-23-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261123T074500
+DTEND;TZID=Europe/Madrid:20261123T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-24-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261124T070000
+DTEND;TZID=Europe/Madrid:20261124T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-24-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261124T081500
+DTEND;TZID=Europe/Madrid:20261124T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-25-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261125T070000
+DTEND;TZID=Europe/Madrid:20261125T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-25-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261125T170000
+DTEND;TZID=Europe/Madrid:20261125T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-26-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261126T104500
+DTEND;TZID=Europe/Madrid:20261126T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-26-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261126T115000
+DTEND;TZID=Europe/Madrid:20261126T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-27-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261127T070000
+DTEND;TZID=Europe/Madrid:20261127T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-27-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261127T074500
+DTEND;TZID=Europe/Madrid:20261127T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-28-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261128T090000
+DTEND;TZID=Europe/Madrid:20261128T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-29-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261129T080000
+DTEND;TZID=Europe/Madrid:20261129T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-30-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261130T070000
+DTEND;TZID=Europe/Madrid:20261130T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-11-30-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261130T074500
+DTEND;TZID=Europe/Madrid:20261130T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-01-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261201T070000
+DTEND;TZID=Europe/Madrid:20261201T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-01-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261201T081500
+DTEND;TZID=Europe/Madrid:20261201T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-02-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261202T070000
+DTEND;TZID=Europe/Madrid:20261202T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-02-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261202T170000
+DTEND;TZID=Europe/Madrid:20261202T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-03-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261203T104500
+DTEND;TZID=Europe/Madrid:20261203T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-03-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261203T115000
+DTEND;TZID=Europe/Madrid:20261203T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-04-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261204T070000
+DTEND;TZID=Europe/Madrid:20261204T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-04-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261204T074500
+DTEND;TZID=Europe/Madrid:20261204T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-05-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261205T090000
+DTEND;TZID=Europe/Madrid:20261205T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-06-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261206T080000
+DTEND;TZID=Europe/Madrid:20261206T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-07-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261207T070000
+DTEND;TZID=Europe/Madrid:20261207T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-07-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261207T074500
+DTEND;TZID=Europe/Madrid:20261207T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-08-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261208T070000
+DTEND;TZID=Europe/Madrid:20261208T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-08-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261208T081500
+DTEND;TZID=Europe/Madrid:20261208T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-09-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261209T070000
+DTEND;TZID=Europe/Madrid:20261209T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-09-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261209T170000
+DTEND;TZID=Europe/Madrid:20261209T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-10-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261210T104500
+DTEND;TZID=Europe/Madrid:20261210T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-10-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261210T115000
+DTEND;TZID=Europe/Madrid:20261210T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-11-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261211T070000
+DTEND;TZID=Europe/Madrid:20261211T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-11-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261211T074500
+DTEND;TZID=Europe/Madrid:20261211T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-12-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261212T090000
+DTEND;TZID=Europe/Madrid:20261212T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-13-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261213T080000
+DTEND;TZID=Europe/Madrid:20261213T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-14-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261214T070000
+DTEND;TZID=Europe/Madrid:20261214T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-14-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261214T074500
+DTEND;TZID=Europe/Madrid:20261214T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-15-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261215T070000
+DTEND;TZID=Europe/Madrid:20261215T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-15-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261215T081500
+DTEND;TZID=Europe/Madrid:20261215T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-16-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261216T070000
+DTEND;TZID=Europe/Madrid:20261216T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-16-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261216T170000
+DTEND;TZID=Europe/Madrid:20261216T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-17-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261217T104500
+DTEND;TZID=Europe/Madrid:20261217T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-17-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261217T115000
+DTEND;TZID=Europe/Madrid:20261217T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-18-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261218T070000
+DTEND;TZID=Europe/Madrid:20261218T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-18-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261218T074500
+DTEND;TZID=Europe/Madrid:20261218T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-19-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261219T090000
+DTEND;TZID=Europe/Madrid:20261219T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-20-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261220T080000
+DTEND;TZID=Europe/Madrid:20261220T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-21-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261221T070000
+DTEND;TZID=Europe/Madrid:20261221T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-21-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261221T074500
+DTEND;TZID=Europe/Madrid:20261221T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-22-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261222T070000
+DTEND;TZID=Europe/Madrid:20261222T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-22-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261222T081500
+DTEND;TZID=Europe/Madrid:20261222T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-23-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261223T070000
+DTEND;TZID=Europe/Madrid:20261223T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-23-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261223T170000
+DTEND;TZID=Europe/Madrid:20261223T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-24-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261224T104500
+DTEND;TZID=Europe/Madrid:20261224T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-24-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261224T115000
+DTEND;TZID=Europe/Madrid:20261224T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-25-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261225T070000
+DTEND;TZID=Europe/Madrid:20261225T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-25-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261225T074500
+DTEND;TZID=Europe/Madrid:20261225T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-26-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261226T090000
+DTEND;TZID=Europe/Madrid:20261226T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-27-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261227T080000
+DTEND;TZID=Europe/Madrid:20261227T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-28-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261228T070000
+DTEND;TZID=Europe/Madrid:20261228T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-28-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261228T074500
+DTEND;TZID=Europe/Madrid:20261228T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-29-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261229T070000
+DTEND;TZID=Europe/Madrid:20261229T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-29-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20261229T081500
+DTEND;TZID=Europe/Madrid:20261229T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-30-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261230T070000
+DTEND;TZID=Europe/Madrid:20261230T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-30-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261230T170000
+DTEND;TZID=Europe/Madrid:20261230T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-31-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261231T104500
+DTEND;TZID=Europe/Madrid:20261231T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2026-12-31-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20261231T115000
+DTEND;TZID=Europe/Madrid:20261231T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-01-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270101T070000
+DTEND;TZID=Europe/Madrid:20270101T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-01-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20270101T074500
+DTEND;TZID=Europe/Madrid:20270101T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-02-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270102T090000
+DTEND;TZID=Europe/Madrid:20270102T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-03-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270103T080000
+DTEND;TZID=Europe/Madrid:20270103T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-04-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270104T070000
+DTEND;TZID=Europe/Madrid:20270104T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-04-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270104T074500
+DTEND;TZID=Europe/Madrid:20270104T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-05-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270105T070000
+DTEND;TZID=Europe/Madrid:20270105T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-05-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20270105T081500
+DTEND;TZID=Europe/Madrid:20270105T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-06-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270106T070000
+DTEND;TZID=Europe/Madrid:20270106T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-06-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270106T170000
+DTEND;TZID=Europe/Madrid:20270106T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-07-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270107T104500
+DTEND;TZID=Europe/Madrid:20270107T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-07-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270107T115000
+DTEND;TZID=Europe/Madrid:20270107T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-08-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270108T070000
+DTEND;TZID=Europe/Madrid:20270108T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-08-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20270108T074500
+DTEND;TZID=Europe/Madrid:20270108T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-09-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270109T090000
+DTEND;TZID=Europe/Madrid:20270109T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-10-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270110T080000
+DTEND;TZID=Europe/Madrid:20270110T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-11-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270111T070000
+DTEND;TZID=Europe/Madrid:20270111T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-11-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270111T074500
+DTEND;TZID=Europe/Madrid:20270111T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-12-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270112T070000
+DTEND;TZID=Europe/Madrid:20270112T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-12-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20270112T081500
+DTEND;TZID=Europe/Madrid:20270112T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-13-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270113T070000
+DTEND;TZID=Europe/Madrid:20270113T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-13-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270113T170000
+DTEND;TZID=Europe/Madrid:20270113T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-14-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270114T104500
+DTEND;TZID=Europe/Madrid:20270114T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-14-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270114T115000
+DTEND;TZID=Europe/Madrid:20270114T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-15-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270115T070000
+DTEND;TZID=Europe/Madrid:20270115T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-15-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20270115T074500
+DTEND;TZID=Europe/Madrid:20270115T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-16-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270116T090000
+DTEND;TZID=Europe/Madrid:20270116T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-17-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270117T080000
+DTEND;TZID=Europe/Madrid:20270117T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-18-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270118T070000
+DTEND;TZID=Europe/Madrid:20270118T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-18-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270118T074500
+DTEND;TZID=Europe/Madrid:20270118T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-19-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270119T070000
+DTEND;TZID=Europe/Madrid:20270119T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-19-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20270119T081500
+DTEND;TZID=Europe/Madrid:20270119T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-20-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270120T070000
+DTEND;TZID=Europe/Madrid:20270120T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-20-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270120T170000
+DTEND;TZID=Europe/Madrid:20270120T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-21-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270121T104500
+DTEND;TZID=Europe/Madrid:20270121T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-21-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270121T115000
+DTEND;TZID=Europe/Madrid:20270121T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-22-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270122T070000
+DTEND;TZID=Europe/Madrid:20270122T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-22-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20270122T074500
+DTEND;TZID=Europe/Madrid:20270122T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-23-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270123T090000
+DTEND;TZID=Europe/Madrid:20270123T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-24-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270124T080000
+DTEND;TZID=Europe/Madrid:20270124T110000
+SUMMARY:BICI · Fondo Z2 (3 horas)
+DESCRIPTION:TU ENTRENAMIENTO\n08:00–11:00 · Hora de Madrid\n\n01. 20 min
+  calentamiento suave\n\n02. 140 min Z2 cómoda y estable\, pudiendo conver
+ sar\n\n03. 20 min vuelta a la calma. TOTAL 180 min. Reducir marcha en las 
+ cuestas para mantener esfuerzo\n\n04. sin velocidad mínima ni pulsaciones
+  fijas sin zonas personales. Practicar alimentación e hidratación ya tol
+ eradas. No añadir bloques rápidos. Alcanzar 3 horas progresivamente si t
+ odavía no se está adaptado a salidas largas. Objetivo: preparación 70.3
+  sub-5 h\n\n05. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo perc
+ ibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave
+  salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 
+ 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-25-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270125T070000
+DTEND;TZID=Europe/Madrid:20270125T073500
+SUMMARY:GIMNASIO A · Core\, espalda y estabilidad (35 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:35 · Hora de Madrid\n\n01. 35 min
+  de fuerza controlada\n\n02. remo 3x8\n\n03. puente de glúteos 2x10\n\n04
+ . elevaciones de gemelo 2x12\n\n05. Pallof press 2x10 por lado\n\n06. plan
+ cha lateral 2x30 s por lado. Mantener 2-3 repeticiones en reserva\, sin ll
+ egar al fallo. Gimnasio antes de nadar. Objetivo: preparación 70.3 sub-5 
+ h\n\n07. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido d
+ e 0 a 10. En las recuperaciones de carrera y bici\, sigue muy suave salvo 
+ indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al
+  30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-25-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270125T074500
+DTEND;TZID=Europe/Madrid:20270125T083000
+SUMMARY:NATACION · Técnica y series cómodas · 1800 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 6x50 m técnica (15-20 s descanso)\n\n03. 8x100
+  m cómodos RPE 4-5 (20 s descanso)\n\n04. 4x50 m relajados (15 s descanso
+ )\n\n05. 200 m vuelta a la calma. TOTAL 1800 m. Objetivo: eficiencia y té
+ cnica. Duración de piscina orientativa: reducir metros si no caben con bu
+ ena técnica\, sin acelerar para encajar el horario. Objetivo: preparació
+ n 70.3 sub-5 h\n\n06. ajustar al nivel y volumen tolerado.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-26-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270126T070000
+DTEND;TZID=Europe/Madrid:20270126T075000
+SUMMARY:RUN · Series controladas · 5x3 min
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento suave\n\n02. movilidad dinámica y 3 progresivos cortos sin
+  esprintar\n\n03. 5x3 min RPE 7 (2 min recuperación al trote entre repeti
+ ciones\, 4 recuperaciones)\n\n04. vuelta a la calma suave hasta completar 
+ 50 min. Objetivo: repeticiones uniformes y técnica estable. Sin ritmo fij
+ o por km hasta disponer de marcas actuales. Si el volumen no se tolera\, r
+ educir repeticiones. Objetivo: preparación 70.3 sub-5 h\n\n05. ajustar al
+  nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las re
+ cuperaciones de carrera y bici\, sigue muy suave salvo indicación distint
+ a.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 202
+ 7.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-26-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20270126T081500
+DTEND;TZID=Europe/Madrid:20270126T090000
+SUMMARY:BICI · Rodaje suave (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n08:15–09:00 · Hora de Madrid\n\n01. 45 min
+  de pedaleo cómodo RPE 2-3\n\n02. mantener esfuerzo fácil y cadencia nat
+ ural. Sin perseguir velocidad ni añadir bloques intensos. Objetivo: prepa
+ ración 70.3 sub-5 h\n\n03. ajustar al nivel y volumen tolerado. Después 
+ de las series de carrera\, con 25 min para la transición. Finaliza a las 
+ 09:00\n\n04. no ocupa las 13:00 ni las clases de la tarde.\n\nRPE: esfuerz
+ o percibido de 0 a 10. En las recuperaciones de carrera y bici\, sigue muy
+  suave salvo indicación distinta.\n\nATHLETE LAB · Plan del 9 de noviemb
+ re de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-27-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270127T070000
+DTEND;TZID=Europe/Madrid:20270127T075500
+SUMMARY:NATACION · Resistencia · 5x300 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:55 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m progresivos controlados (15-20 s descans
+ o)\n\n03. 5x300 m constantes RPE 4-5 (30 s descanso)\n\n04. 200 m vuelta a
+  la calma. TOTAL 2200 m. Objetivo: ritmo uniforme y técnica estable. Tiem
+ po orientativo\n\n05. reducir metros si hace falta sin convertir la sesió
+ n en una carrera. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar al ni
+ vel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las recup
+ eraciones de carrera y bici\, sigue muy suave salvo indicación distinta.\
+ n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-27-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270127T170000
+DTEND;TZID=Europe/Madrid:20270127T174500
+SUMMARY:RUN · Carrera fácil (45 min)
+DESCRIPTION:TU ENTRENAMIENTO\n17:00–17:45 · Hora de Madrid\n\n01. 45 min
+  fáciles RPE 3-4\n\n02. mantener conversación cómoda y técnica relajad
+ a. Sin series ni final rápido. Objetivo: preparación 70.3 sub-5 h\n\n03.
+  ajustar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10
+ . En las recuperaciones de carrera y bici\, sigue muy suave salvo indicaci
+ ón distinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de e
+ nero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-28-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270128T104500
+DTEND;TZID=Europe/Madrid:20270128T115000
+SUMMARY:BICI · Series moderadas · 3x8 min
+DESCRIPTION:TU ENTRENAMIENTO\n10:45–11:50 · Hora de Madrid\n\n01. 15 min
+  calentamiento progresivo\n\n02. 3x8 min RPE 6-7 (4 min recuperación suav
+ e entre bloques\, 2 recuperaciones)\n\n03. 8 min de rodaje fácil\n\n04. 1
+ 0 min vuelta a la calma. TOTAL 65 min. Objetivo: esfuerzo sostenido y cont
+ rolado. En cuestas\, regular por esfuerzo\, no por velocidad\n\n05. no equ
+ ivale a un FTP medido. Objetivo: preparación 70.3 sub-5 h\n\n06. ajustar 
+ al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En las 
+ recuperaciones de carrera y bici\, sigue muy suave salvo indicación disti
+ nta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero de 2
+ 027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-28-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270128T115000
+DTEND;TZID=Europe/Madrid:20270128T120000
+SUMMARY:RUN · Transición bici-carrera (10 min)
+DESCRIPTION:TU ENTRENAMIENTO\n11:50–12:00 · Hora de Madrid\n\n01. 10 min
+  de carrera muy suave RPE 2-3 justo después de la bici\n\n02. acostumbrar
+  las piernas al cambio de deporte. Sin acelerar ni convertir la transició
+ n en otra sesión intensa. Objetivo: preparación 70.3 sub-5 h\n\n03. ajus
+ tar al nivel y volumen tolerado.\n\nRPE: esfuerzo percibido de 0 a 10. En 
+ las recuperaciones de carrera y bici\, sigue muy suave salvo indicación d
+ istinta.\n\nATHLETE LAB · Plan del 9 de noviembre de 2026 al 30 de enero 
+ de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-29-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270129T070000
+DTEND;TZID=Europe/Madrid:20270129T073000
+SUMMARY:GIMNASIO B · Mantenimiento y estabilidad (30 min)
+DESCRIPTION:TU ENTRENAMIENTO\n07:00–07:30 · Hora de Madrid\n\n01. 30 min
+  de fuerza de mantenimiento\n\n02. remo 2x10\n\n03. press controlado 2x8\n
+ \n04. bisagra de cadera ligera 2x8\n\n05. estabilidad a una pierna 2x30 s 
+ por lado\n\n06. core y movilidad. Mantener repeticiones en reserva y evita
+ r fatigar las piernas antes del fin de semana. Gimnasio antes de nadar. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-29-1@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:2
+DTSTART;TZID=Europe/Madrid:20270129T074500
+DTEND;TZID=Europe/Madrid:20270129T083000
+SUMMARY:NATACION · Series de ritmo · 12x100 m
+DESCRIPTION:TU ENTRENAMIENTO\n07:45–08:30 · Hora de Madrid\n\n01. 300 m 
+ calentamiento suave\n\n02. 4x50 m técnica (15-20 s descanso)\n\n03. 12x10
+ 0 m RPE 5-6 (20-25 s descanso)\n\n04. 100 m vuelta a la calma. TOTAL 1800 
+ m. Objetivo: repeticiones consistentes sin perder técnica. Horario orient
+ ativo\n\n05. ajustar el número de repeticiones al tiempo y al nivel actua
+ l. Sábado de doble sesión: nadar primero\, sin terminar exhausto\n\n06. 
+ carrera fácil a las 09:00. Reducir repeticiones si se pierde técnica. Ob
+ jetivo: preparación 70.3 sub-5 h\n\n07. ajustar al nivel y volumen tolera
+ do.\n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera
+  y bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Pl
+ an del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:703-sub5-2027-01-30-0@chatgpt.local
+DTSTAMP:20261106T170000Z
+SEQUENCE:1
+DTSTART;TZID=Europe/Madrid:20270130T090000
+DTEND;TZID=Europe/Madrid:20270130T101000
+SUMMARY:RUN · Carrera larga fácil (70 min)
+DESCRIPTION:TU ENTRENAMIENTO\n09:00–10:10 · Hora de Madrid\n\n01. 10 min
+  iniciales suaves\n\n02. 50 min a esfuerzo fácil RPE 3-4 y conversación 
+ cómoda\n\n03. 10 min finales suaves. TOTAL 70 min. Sin final rápido. Obj
+ etivo: resistencia de carrera. Si aún no se tolera el bloque de sábado y
+  domingo\, reducir primero esta sesión y progresar también en la bici la
+ rga. Segunda sesión del sábado\, después de nadar. Mantenerla fácil\n\
+ n04. reducir duración si afecta a la recuperación para el domingo. Objet
+ ivo: preparación 70.3 sub-5 h\n\n05. ajustar al nivel y volumen tolerado.
+ \n\nRPE: esfuerzo percibido de 0 a 10. En las recuperaciones de carrera y 
+ bici\, sigue muy suave salvo indicación distinta.\n\nATHLETE LAB · Plan 
+ del 9 de noviembre de 2026 al 30 de enero de 2027.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

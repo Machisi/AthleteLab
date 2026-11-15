@@ -1,0 +1,434 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		00000000000000000000001B /* WatchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00000000000000000000001C /* WatchApp.swift */; };
+		000000000000000000000029 /* AthleteLabWatch.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 000000000000000000000015 /* AthleteLabWatch.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		000000000000000000000066 /* AccountService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000065 /* AccountService.swift */; };
+		000000000000000000000068 /* ActivityDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000067 /* ActivityDataService.swift */; };
+		00000000000000000000006A /* AppModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000069 /* AppModel.swift */; };
+		00000000000000000000006D /* AthleteLabApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00000000000000000000006C /* AthleteLabApp.swift */; };
+		00000000000000000000006F /* Components.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00000000000000000000006E /* Components.swift */; };
+		000000000000000000000071 /* ConnectionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000070 /* ConnectionsView.swift */; };
+		000000000000000000000073 /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000072 /* HistoryView.swift */; };
+		000000000000000000000076 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000075 /* Models.swift */; };
+		000000000000000000000078 /* NutritionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000077 /* NutritionView.swift */; };
+		00000000000000000000007A /* PlanView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000079 /* PlanView.swift */; };
+		00000000000000000000007C /* RecoveryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00000000000000000000007B /* RecoveryView.swift */; };
+		00000000000000000000007E /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00000000000000000000007D /* RootView.swift */; };
+		000000000000000000000080 /* SessionDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00000000000000000000007F /* SessionDetailView.swift */; };
+		000000000000000000000082 /* TodayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000081 /* TodayView.swift */; };
+		000000000000000000000084 /* WatchSessionBridge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000083 /* WatchSessionBridge.swift */; };
+		000000000000000000000086 /* WeekStrip.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000085 /* WeekStrip.swift */; };
+		000000000000000000000BBB /* TrainingPlan.json in Resources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000BB9 /* TrainingPlan.json */; };
+		000000000000000000000BBC /* TrainingPlan.ics in Resources */ = {isa = PBXBuildFile; fileRef = 000000000000000000000BBA /* TrainingPlan.ics */; };
+		000000000000000000001389 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 000000000000000000001388 /* Assets.xcassets */; };
+		00000000000000000000138B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 00000000000000000000138A /* Assets.xcassets */; };
+		000000000000000000001771 /* AthleteProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 000000000000000000001770 /* AthleteProfile.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		00000000000000000000002B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 000000000000000000000001 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 000000000000000000000014;
+			remoteInfo = AthleteLabWatch;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		000000000000000000000028 /* Embed Watch Content */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
+			dstSubfolderSpec = 16;
+			files = (
+				000000000000000000000029 /* AthleteLabWatch.app in Embed Watch Content */,
+			);
+			name = "Embed Watch Content";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		00000000000000000000000B /* AthleteLab.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AthleteLab.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		000000000000000000000015 /* AthleteLabWatch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AthleteLabWatch.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		00000000000000000000001C /* WatchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchApp.swift; sourceTree = "<group>"; };
+		000000000000000000000065 /* AccountService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountService.swift; sourceTree = "<group>"; };
+		000000000000000000000067 /* ActivityDataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityDataService.swift; sourceTree = "<group>"; };
+		000000000000000000000069 /* AppModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppModel.swift; sourceTree = "<group>"; };
+		00000000000000000000006B /* AthleteLab.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = AthleteLab.entitlements; sourceTree = "<group>"; };
+		00000000000000000000006C /* AthleteLabApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AthleteLabApp.swift; sourceTree = "<group>"; };
+		00000000000000000000006E /* Components.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Components.swift; sourceTree = "<group>"; };
+		000000000000000000000070 /* ConnectionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConnectionsView.swift; sourceTree = "<group>"; };
+		000000000000000000000072 /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		000000000000000000000074 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		000000000000000000000075 /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		000000000000000000000077 /* NutritionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NutritionView.swift; sourceTree = "<group>"; };
+		000000000000000000000079 /* PlanView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlanView.swift; sourceTree = "<group>"; };
+		00000000000000000000007B /* RecoveryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecoveryView.swift; sourceTree = "<group>"; };
+		00000000000000000000007D /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
+		00000000000000000000007F /* SessionDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SessionDetailView.swift; sourceTree = "<group>"; };
+		000000000000000000000081 /* TodayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayView.swift; sourceTree = "<group>"; };
+		000000000000000000000083 /* WatchSessionBridge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchSessionBridge.swift; sourceTree = "<group>"; };
+		000000000000000000000085 /* WeekStrip.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeekStrip.swift; sourceTree = "<group>"; };
+		000000000000000000000087 /* .env.example */ = {isa = PBXFileReference; lastKnownFileType = text; path = .env.example; sourceTree = "<group>"; };
+		000000000000000000000088 /* account_store.py */ = {isa = PBXFileReference; lastKnownFileType = text; path = account_store.py; sourceTree = "<group>"; };
+		000000000000000000000089 /* requirements.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = requirements.txt; sourceTree = "<group>"; };
+		00000000000000000000008A /* server.py */ = {isa = PBXFileReference; lastKnownFileType = text; path = server.py; sourceTree = "<group>"; };
+		00000000000000000000008B /* test_account_store.py */ = {isa = PBXFileReference; lastKnownFileType = text; path = test_account_store.py; sourceTree = "<group>"; };
+		00000000000000000000008D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		000000000000000000000BB9 /* TrainingPlan.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = TrainingPlan.json; sourceTree = "<group>"; };
+		000000000000000000000BBA /* TrainingPlan.ics */ = {isa = PBXFileReference; lastKnownFileType = text; path = TrainingPlan.ics; sourceTree = "<group>"; };
+		000000000000000000001388 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		00000000000000000000138A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		000000000000000000001770 /* AthleteProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AthleteProfile.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		000000000000000000000003 = {
+			isa = PBXGroup;
+			children = (
+				000000000000000000000BB8 /* Resources */,
+				00000000000000000000008D /* README.md */,
+				00000000000000000000008C /* Server */,
+				00000000000000000000001E /* iOS */,
+				00000000000000000000001F /* Watch */,
+				000000000000000000000004 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		000000000000000000000004 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				00000000000000000000000B /* AthleteLab.app */,
+				000000000000000000000015 /* AthleteLabWatch.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		00000000000000000000001E /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				000000000000000000001770 /* AthleteProfile.swift */,
+				000000000000000000001388 /* Assets.xcassets */,
+				000000000000000000000065 /* AccountService.swift */,
+				000000000000000000000067 /* ActivityDataService.swift */,
+				000000000000000000000069 /* AppModel.swift */,
+				00000000000000000000006B /* AthleteLab.entitlements */,
+				00000000000000000000006C /* AthleteLabApp.swift */,
+				00000000000000000000006E /* Components.swift */,
+				000000000000000000000070 /* ConnectionsView.swift */,
+				000000000000000000000072 /* HistoryView.swift */,
+				000000000000000000000074 /* Info.plist */,
+				000000000000000000000075 /* Models.swift */,
+				000000000000000000000077 /* NutritionView.swift */,
+				000000000000000000000079 /* PlanView.swift */,
+				00000000000000000000007B /* RecoveryView.swift */,
+				00000000000000000000007D /* RootView.swift */,
+				00000000000000000000007F /* SessionDetailView.swift */,
+				000000000000000000000081 /* TodayView.swift */,
+				000000000000000000000083 /* WatchSessionBridge.swift */,
+				000000000000000000000085 /* WeekStrip.swift */,
+			);
+			path = iOS;
+			sourceTree = "<group>";
+		};
+		00000000000000000000001F /* Watch */ = {
+			isa = PBXGroup;
+			children = (
+				00000000000000000000138A /* Assets.xcassets */,
+				00000000000000000000001C /* WatchApp.swift */,
+			);
+			path = Watch;
+			sourceTree = "<group>";
+		};
+		00000000000000000000008C /* Server */ = {
+			isa = PBXGroup;
+			children = (
+				000000000000000000000087 /* .env.example */,
+				000000000000000000000088 /* account_store.py */,
+				000000000000000000000089 /* requirements.txt */,
+				00000000000000000000008A /* server.py */,
+				00000000000000000000008B /* test_account_store.py */,
+			);
+			path = Server;
+			sourceTree = "<group>";
+		};
+		000000000000000000000BB8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				000000000000000000000BB9 /* TrainingPlan.json */,
+				000000000000000000000BBA /* TrainingPlan.ics */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		00000000000000000000000A /* AthleteLab */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 00000000000000000000000C /* Build configuration list for PBXNativeTarget "AthleteLab" */;
+			buildPhases = (
+				00000000000000000000000D /* Sources */,
+				00000000000000000000000E /* Resources */,
+				000000000000000000000028 /* Embed Watch Content */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				00000000000000000000002A /* PBXTargetDependency */,
+			);
+			name = AthleteLab;
+			productName = AthleteLab;
+			productReference = 00000000000000000000000B /* AthleteLab.app */;
+			productType = "com.apple.product-type.application";
+		};
+		000000000000000000000014 /* AthleteLabWatch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 000000000000000000000016 /* Build configuration list for PBXNativeTarget "AthleteLabWatch" */;
+			buildPhases = (
+				000000000000000000000017 /* Sources */,
+				000000000000000000000018 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AthleteLabWatch;
+			productName = AthleteLab;
+			productReference = 000000000000000000000015 /* AthleteLabWatch.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		000000000000000000000001 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 2700;
+			};
+			buildConfigurationList = 000000000000000000000002 /* Build configuration list for PBXProject "AthleteLab" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = es;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				es,
+				en,
+				Base,
+			);
+			mainGroup = 000000000000000000000003;
+			productRefGroup = 000000000000000000000004 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				00000000000000000000000A /* AthleteLab */,
+				000000000000000000000014 /* AthleteLabWatch */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		00000000000000000000000E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				000000000000000000001389 /* Assets.xcassets in Resources */,
+				000000000000000000000BBB /* TrainingPlan.json in Resources */,
+				000000000000000000000BBC /* TrainingPlan.ics in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		000000000000000000000018 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00000000000000000000138B /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		00000000000000000000000D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				000000000000000000001771 /* AthleteProfile.swift in Sources */,
+				000000000000000000000066 /* AccountService.swift in Sources */,
+				000000000000000000000068 /* ActivityDataService.swift in Sources */,
+				00000000000000000000006A /* AppModel.swift in Sources */,
+				00000000000000000000006D /* AthleteLabApp.swift in Sources */,
+				00000000000000000000006F /* Components.swift in Sources */,
+				000000000000000000000071 /* ConnectionsView.swift in Sources */,
+				000000000000000000000073 /* HistoryView.swift in Sources */,
+				000000000000000000000076 /* Models.swift in Sources */,
+				000000000000000000000078 /* NutritionView.swift in Sources */,
+				00000000000000000000007A /* PlanView.swift in Sources */,
+				00000000000000000000007C /* RecoveryView.swift in Sources */,
+				00000000000000000000007E /* RootView.swift in Sources */,
+				000000000000000000000080 /* SessionDetailView.swift in Sources */,
+				000000000000000000000082 /* TodayView.swift in Sources */,
+				000000000000000000000084 /* WatchSessionBridge.swift in Sources */,
+				000000000000000000000086 /* WeekStrip.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		000000000000000000000017 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				00000000000000000000001B /* WatchApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		00000000000000000000002A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 000000000000000000000014 /* AthleteLabWatch */;
+			targetProxy = 00000000000000000000002B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		000000000000000000000005 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		000000000000000000000006 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		00000000000000000000000F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = iOS/AthleteLab.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27KK4UF94V;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = iOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.marc.athletelab;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		000000000000000000000010 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = iOS/AthleteLab.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27KK4UF94V;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = iOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.marc.athletelab;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = iphoneos;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		000000000000000000000019 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Watch/AthleteLab.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27KK4UF94V;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Watch/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.marc.athletelab.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "watchos watchsimulator";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Debug;
+		};
+		00000000000000000000001A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = Watch/AthleteLab.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27KK4UF94V;
+				GENERATE_INFOPLIST_FILE = NO;
+				INFOPLIST_FILE = Watch/Info.plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.marc.athletelab.watchkitapp;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SDKROOT = watchos;
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "watchos watchsimulator";
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 4;
+				WATCHOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		000000000000000000000002 /* Build configuration list for PBXProject "AthleteLab" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				000000000000000000000005 /* Debug */,
+				000000000000000000000006 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		00000000000000000000000C /* Build configuration list for PBXNativeTarget "AthleteLab" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				00000000000000000000000F /* Debug */,
+				000000000000000000000010 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		000000000000000000000016 /* Build configuration list for PBXNativeTarget "AthleteLabWatch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				000000000000000000000019 /* Debug */,
+				00000000000000000000001A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 000000000000000000000001 /* Project object */;
+}

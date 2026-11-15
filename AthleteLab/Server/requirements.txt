@@ -1,0 +1,6 @@
+Flask>=3.0,<4
+requests>=2.32,<3
+requests-oauthlib>=2,<3
+cryptography>=43
+waitress>=3,<4
+PyJWT[crypto]>=2.10,<3
