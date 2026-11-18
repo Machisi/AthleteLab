@@ -3,6 +3,7 @@ import Charts
 
 struct Today: View {
     @EnvironmentObject var m: Model
+    @Environment(\.dynamicTypeSize) private var dynamicType
     @AppStorage("weeklyKmGoal") var weeklyKmGoal = 0.0
     @AppStorage("sleepGoalHours") var sleepGoalHours = 0.0
     var dailyPlan: [Session] { m.plan.filter { Calendar.current.isDate($0.date, inSameDayAs: m.selectedDay) }.sorted { $0.date < $1.date } }
@@ -14,9 +15,10 @@ struct Today: View {
     var body: some View {
         ScrollView { VStack(alignment: .leading, spacing: 20) {
             WeekStrip(selection: $m.selectedDay, marked: Set(m.plan.map { Calendar.current.startOfDay(for: $0.date) }))
-            HStack(alignment: .top, spacing: 12) {
-                SummaryRingCard(title: "Kilómetros", value: kilometres.formatted(.number.precision(.fractionLength(1))), unit: "km esta semana", progress: weeklyKmGoal > 0 ? kilometres / weeklyKmGoal : nil, color: .orange, subtitle: weeklyKmGoal > 0 ? "Objetivo \(weeklyKmGoal.formatted()) km" : "Sin objetivo semanal", symbol: "figure.run")
-                SummaryRingCard(title: "Recuperación", value: sleepHours.map { $0.formatted(.number.precision(.fractionLength(1))) } ?? "—", unit: "h de sueño", progress: sleepHours.flatMap { sleepGoalHours > 0 ? $0 / sleepGoalHours : nil }, color: .cyan, subtitle: sleepHours == nil ? "Sin datos nocturnos" : "Descanso registrado", symbol: "moon.zzz.fill")
+            let ringLayout = dynamicType.isAccessibilitySize ? AnyLayout(VStackLayout(spacing: 12)) : AnyLayout(HStackLayout(alignment: .top, spacing: 12))
+            ringLayout {
+                SummaryRingCard(title: "Kilómetros", value: kilometres.formatted(.number.precision(.fractionLength(1))), unit: "km esta semana", progress: weeklyKmGoal > 0 ? kilometres / weeklyKmGoal : nil, color: LabPalette.accent, subtitle: weeklyKmGoal > 0 ? "Objetivo \(weeklyKmGoal.formatted()) km" : "Sin objetivo semanal", symbol: "figure.run")
+                SummaryRingCard(title: "Recuperación", value: sleepHours.map { $0.formatted(.number.precision(.fractionLength(1))) } ?? "—", unit: "h de sueño", progress: sleepHours.flatMap { sleepGoalHours > 0 ? $0 / sleepGoalHours : nil }, color: LabPalette.protein, subtitle: sleepHours == nil ? "Sin datos nocturnos" : "Descanso registrado", symbol: "moon.zzz.fill")
             }
             Text("Lun–dom · \(week.start.formatted(.dateTime.day().month())) – \(week.end.addingTimeInterval(-1).formatted(.dateTime.day().month())) · Recuperación: el anillo refleja sueño frente a tu objetivo, no una puntuación global.").font(.caption).foregroundStyle(.secondary)
             if !food.isEmpty {
@@ -31,11 +33,11 @@ struct Today: View {
             if dailyPlan.isEmpty { Card { Label("Sin sesión planificada", systemImage: "calendar"); Text("Consulta otra fecha o añade una sesión en Mi plan.").foregroundStyle(.secondary) } }
             ForEach(dailyPlan) { s in
                 NavigationLink { SessionDetail(session: s) } label: {
-                    Card { HStack { Image(systemName: s.symbol).foregroundStyle(.blue); Text(s.title).font(.headline); Spacer(); Image(systemName: "chevron.right").font(.caption) }; Text(s.date.formatted(.dateTime.hour().minute()) + " · \(Int(s.minutes)) min").font(.caption).foregroundStyle(.secondary); Text(TrainingText(s.detail).preview).font(.subheadline).foregroundStyle(.secondary).lineLimit(4) }
+                    Card { HStack { SportIcon(session: s); Text(s.title).font(.headline); Spacer(); Image(systemName: "chevron.right").font(.caption) }; Text(s.date.formatted(.dateTime.hour().minute()) + " · \(Int(s.minutes)) min").font(.caption).foregroundStyle(.secondary); Text(TrainingText(s.detail).preview).font(.subheadline).foregroundStyle(.secondary).lineLimit(2) }
                 }.buttonStyle(.plain)
             }
             if !recorded.isEmpty { Text("Actividad registrada").font(.title2.bold()); ForEach(recorded) { s in NavigationLink { SessionDetail(session: s) } label: { SessionRow(session: s) }.buttonStyle(.plain) } }
-        }.padding() }.background(Color(.systemGroupedBackground))
+        }.padding(16).padding(.bottom, 12) }.background(LabPalette.canvas)
         .refreshable { await m.sync() }
     }
 }

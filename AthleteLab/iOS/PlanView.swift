@@ -31,9 +31,9 @@ struct PlanView: View {
                     }.swipeActions { Button("Eliminar", role: .destructive) { m.plan.removeAll { $0.id == s.id }; m.savePlan() } }
                 }
             }
-        }.toolbar {
-            Button { month.toggle() } label: { Image(systemName: "calendar") }
-            Button { add = true } label: { Image(systemName: "plus") }
+        }.scrollContentBackground(.hidden).background(LabPalette.canvas).toolbar {
+            Button { month.toggle() } label: { Image(systemName: "calendar") }.accessibilityLabel("Mostrar calendario")
+            Button { add = true } label: { Image(systemName: "plus") }.accessibilityLabel("Añadir sesión")
         }.sheet(isPresented: $add) { AddSession() }
     }
 }

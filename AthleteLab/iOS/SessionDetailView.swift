@@ -42,7 +42,7 @@ struct SessionDetail: View {
                     Card {
                         Label("Recorrido", systemImage: "map.fill").font(.headline)
                         if !data.route.isEmpty {
-                            Map { MapPolyline(coordinates: data.route.map { CLLocationCoordinate2D(latitude: $0.latitude, longitude: $0.longitude) }).stroke(.blue, lineWidth: 4) }
+                            Map { MapPolyline(coordinates: data.route.map { CLLocationCoordinate2D(latitude: $0.latitude, longitude: $0.longitude) }).stroke(LabPalette.coral, lineWidth: 4) }
                                 .frame(height: 250).clipShape(RoundedRectangle(cornerRadius: 16)).accessibilityLabel("Mapa del recorrido registrado")
                         } else { Text("El recorrido aparecerá si la actividad incluye GPS y has autorizado su lectura.").font(.subheadline).foregroundStyle(.secondary) }
                     }
@@ -52,7 +52,7 @@ struct SessionDetail: View {
             if isPlan { TrainingInstructionView(session: session) }
             else { Card { Text("Detalles").font(.title2.bold()); Text(session.detail).textSelection(.enabled) } }
             if !isPlan { Text("Origen: \(session.source)").font(.caption).foregroundStyle(.secondary) }
-        }.padding() }.background(Color(.systemGroupedBackground))
+        }.padding(16).padding(.bottom, 12) }.background(LabPalette.canvas)
         .navigationTitle(session.title).navigationBarTitleDisplayMode(.inline)
         .task(id: session.id) {
             guard !isPlan else { return }; loading = true; defer { loading = false }
@@ -77,7 +77,7 @@ struct HeartChart: View {
             if ranges {
                 ForEach(bins) { b in
                     if b.high > b.low {
-                        BarMark(x: .value("Minuto", b.minute), yStart: .value("Mínima", b.low), yEnd: .value("Máxima", b.high), width: .ratio(0.65)).cornerRadius(8).foregroundStyle(Color(red: 1, green: 0.43, blue: 0.39))
+                        BarMark(x: .value("Minuto", b.minute), yStart: .value("Mínima", b.low), yEnd: .value("Máxima", b.high), width: .ratio(0.65)).cornerRadius(8).foregroundStyle(LabPalette.accent)
                     } else { PointMark(x: .value("Minuto", b.minute), y: .value("HR", b.low)).foregroundStyle(.red).symbolSize(16) }
                 }
             } else {

@@ -12,23 +12,25 @@ struct Root: View {
     @EnvironmentObject var appearance: AppearanceStore
     var body: some View {
         TabView {
-            NavigationStack { Today().navigationTitle("Hoy").toolbar { Button { settings = true } label: { Image(systemName: "person.crop.circle") } } }.tabItem { Label("Hoy", systemImage: "square.grid.2x2.fill") }
+            NavigationStack { Today().navigationTitle("Hoy").toolbar { Button { settings = true } label: { Image(systemName: "person.crop.circle") } } }.tabItem { Label("Hoy", systemImage: "house") }
             NavigationStack { PlanView().navigationTitle("Mi plan") }.tabItem { Label("Plan", systemImage: "calendar") }
-            NavigationStack { History().navigationTitle("Actividad") }.tabItem { Label("Actividad", systemImage: "figure.run") }
-            NavigationStack { Nutrition().navigationTitle("Nutrición") }.tabItem { Label("Nutrición", systemImage: "fork.knife") }
+            NavigationStack { History().navigationTitle("Actividad") }.tabItem { Label("Actividad", systemImage: "heart") }
+            NavigationStack { Nutrition(openSettings: { settings = true }).navigationTitle("Nutrición") }.tabItem { Label("Nutrición", systemImage: "fork.knife") }
             NavigationStack { Recovery().navigationTitle("Recuperación") }.tabItem { Label("Recuperación", systemImage: "heart.text.square.fill") }
-        }.tint(.blue)
+        }.toolbarBackground(LabPalette.surface, for: .tabBar)
+        .toolbarBackground(.visible, for: .tabBar)
+        .tint(LabPalette.accent)
         .background(WindowAppearanceBridge(isDark: appearance.isDark).frame(width: 0, height: 0).allowsHitTesting(false))
         .preferredColorScheme(appearance.scheme)
         .sheet(isPresented: $settings) {
             NavigationStack {
                 Connections().navigationTitle("Ajustes").toolbar {
                     ToolbarItem(placement: .confirmationAction) {
-                        Button { settings = false } label: { Image(systemName: "checkmark").font(.body.weight(.semibold)).frame(minWidth: 32, minHeight: 32) }
+                        Button { settings = false } label: { Image(systemName: "checkmark").font(.body.weight(.semibold)).frame(minWidth: 44, minHeight: 44) }
                             .accessibilityLabel("Cerrar ajustes").buttonStyle(.borderless)
                     }
                 }
-            }.preferredColorScheme(appearance.scheme)
+            }.tint(LabPalette.accent).preferredColorScheme(appearance.scheme)
         }
         .task { while !Task.isCancelled { updateDayIfNeeded(); if phase == .active { await m.sync() }; do { try await Task.sleep(for: .seconds(120)) } catch { return } } }
         .onChange(of: m.selectedDay) { _, _ in m.showCachedNutrition(); m.nightSleepHours = nil; m.nightDate = nil; Task { await m.refreshNutrition(); await m.readNight(for: m.selectedDay) } }
